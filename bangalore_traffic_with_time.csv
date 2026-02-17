@@ -1,0 +1,7 @@
+timestamp,area,road_name,hour_data,day_data,traffic_volume,average_speed,travel_time_index,road_capacity_utilization,incident_reports,weather_conditions
+2026-01-24 12:19:51,Yelahanka,Ring Road,12,5,364,38.36,1.83,64.28,0,Rainy
+2026-01-24 12:19:56,Yelahanka,Main Road,12,5,779,55.17,1.66,71.81,0,Rainy
+2026-01-24 12:20:01,Electronic City,Ring Road,12,5,959,39.43,1.56,47.67,3,Cloudy
+2026-01-24 12:20:06,Yelahanka,Main Road,12,5,666,36.42,1.76,31.07,3,Rainy
+2026-01-24 12:20:11,Whitefield,Main Road,12,5,1093,46.42,1.63,29.99,1,Cloudy
+2026-01-24 12:20:16,Yelahanka,Main Road,12,5,1152,45.48,1.2,53.94,2,Cloudy

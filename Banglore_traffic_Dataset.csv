@@ -1,0 +1,3 @@
+timestamp,area,road_name,hour_data,day_data,traffic_volume,average_speed,travel_time_index,road_capacity_utilization,incident_reports,weather_conditions
+2026-01-24 12:41:09,Whitefield,Main Road,12,5,218,47.4,2.76,80.36,0,Rainy
+2026-01-24 12:41:14,Whitefield,Ring Road,12,5,930,37.18,2.09,32.99,3,Clear
